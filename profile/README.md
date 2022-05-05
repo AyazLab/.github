@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is the repository for the AyazLab neuroergonomics research team!
+
+Visit us at https://ayazlab.com
+
 <!--
 
 **Here are some ideas to get you started:**
